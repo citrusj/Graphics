@@ -3,13 +3,13 @@ CSE4170 Intro to Computer Graphics | OpenGL Projects
 
 ## :tulip: Project 3: 2D Transformation Animation
 * OpenGL 이차원 모델링 변환
-* 모자 안에 물건들이 들어가면서 색이 바뀌는 요술모자 애니메이션, 멀리서부터 앞으로 가까이 오는듯한 자동차 움직임 생성
-<img src="https://user-images.githubusercontent.com/37509450/93300941-ad6ee280-f832-11ea-9808-ea7779b81c6e.png" height="200px" ></img>
-<img src="https://user-images.githubusercontent.com/37509450/93300990-bd86c200-f832-11ea-926d-bfa8c257ddd1.png" height="200px" ></img>
-<img src="https://user-images.githubusercontent.com/37509450/93301605-a85e6300-f833-11ea-95ec-98fd844c1dd9.png" height="200px" ></img>
-<img src="https://user-images.githubusercontent.com/37509450/93301812-f4a9a300-f833-11ea-91cf-4f450659cdee.png" height="200px" ></img>
-<img src="https://user-images.githubusercontent.com/37509450/93300724-4cdfa580-f832-11ea-9b4b-a589642799a4.png" height="200px" ></img>
-<img src="https://user-images.githubusercontent.com/37509450/93300860-8dd7ba00-f832-11ea-909f-c4f3d02fe575.png" height="200px" ></img>
+* 모자 안에 물건들이 들어가면서 색이 바뀌는 요술모자 애니메이션, 멀리서부터 앞으로 가까이 오는듯한 자동차 움직임 생성   
+<img src="https://user-images.githubusercontent.com/37509450/93300941-ad6ee280-f832-11ea-9808-ea7779b81c6e.png" height="150px" ></img>
+<img src="https://user-images.githubusercontent.com/37509450/93300990-bd86c200-f832-11ea-926d-bfa8c257ddd1.png" height="150px" ></img>
+<img src="https://user-images.githubusercontent.com/37509450/93301605-a85e6300-f833-11ea-95ec-98fd844c1dd9.png" height="150px" ></img>
+<img src="https://user-images.githubusercontent.com/37509450/93301812-f4a9a300-f833-11ea-91cf-4f450659cdee.png" height="150px" ></img>
+<img src="https://user-images.githubusercontent.com/37509450/93300724-4cdfa580-f832-11ea-9b4b-a589642799a4.png" height="150px" ></img>
+<img src="https://user-images.githubusercontent.com/37509450/93300860-8dd7ba00-f832-11ea-909f-c4f3d02fe575.png" height="150px" ></img>
 * 2차원 동적 효과 구현
   * 케이크 : fabs함수, 0~360도 회전
   * 비행기 : 음의 2차함수, 동선을 따라 방향 변화
@@ -23,8 +23,8 @@ CSE4170 Intro to Computer Graphics | OpenGL Projects
   
 ## :tulip: Project 4: Simple 3D Transformation
 * OpenGL 삼차원 모델링 변환   
-<img src="https://user-images.githubusercontent.com/37509450/93302697-5d454f80-f835-11ea-9052-f653d8c3ad58.png" height="250px"></img>
-<img src="https://user-images.githubusercontent.com/37509450/93302918-a4cbdb80-f835-11ea-89d3-6f4a517d1f2d.png" height="250px"></img>
+<img src="https://user-images.githubusercontent.com/37509450/93302697-5d454f80-f835-11ea-9052-f653d8c3ad58.png" height="150px"></img>
+<img src="https://user-images.githubusercontent.com/37509450/93302918-a4cbdb80-f835-11ea-89d3-6f4a517d1f2d.png" height="150px"></img>
 
 
 ## :tulip: Project 5: Final 3D Transformation
